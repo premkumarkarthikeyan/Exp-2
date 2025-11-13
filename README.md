@@ -1,53 +1,59 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
-## AIM:
+
+# AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 
-## PROBLEM STATEMENT:
-To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project.
+# SRS (Procedure):
 
-## OVERALL DESCRIPTION:
-The Library Management System is an integrated system that has four modules as part of it. The four modules are
+1. Study and understand the requirements of the library system
+2. Identify the users or actors who interact with the system like librarian, member, admin
+3. List the main functions of the system such as issue book, return book, search book, add book
+4. Identify main objects or classes like Book, Member, Librarian, Transaction, Catalog
+5. Define relationships and interactions among users and system components
+6. Create the workflow or process flow for activities like book issue and return
+7. Organize the system structure and represent it using UML diagrams
 
-## Registration for Membership:
-In this module, the user can select the books to register for the library,Modification in the book database, cancelling the books.
 
-## Book details:
-In this module the user can search for the books by giving bookie in the project and selecting the semester for the book. Maintaining Book Details: In this module the administrator can change the data’s like the semester, address, books can be done.
-
-## Cancellation for the Book:
-In this module the user can cancel their name which is registered for the Book.
-
-## SOFTWARE REQUIRMENTS:
-Star UML
 # DIAGRAMS:
+(upload all 6 diagrams)
 
-## USECASE DIAGRAM:
+UML Diagrams:
+USE CASE DIAGRAM:
 
-<img width="1036" height="644" alt="image" src="https://github.com/user-attachments/assets/412c561c-c66a-4a9d-bac1-e5a8a558c684" />
+![(library)UseCaseDiagram](https://github.com/user-attachments/assets/fa87f30c-2719-4bf9-89f5-e2147f8425eb)
 
-## SEQUENCE DIAGRAM:
 
-<img width="1031" height="663" alt="image" src="https://github.com/user-attachments/assets/45f9f432-421c-4933-8975-e645aef6a499" />
+CLASS DIAGRAM:
 
-## CLASS DIAGRAM :
+![(library)ClassDiagram](https://github.com/user-attachments/assets/0bc9b34a-fdd3-4db8-b32f-f688cdda377b)
 
-<img width="1031" height="708" alt="image" src="https://github.com/user-attachments/assets/022d9f75-7e7c-4755-8791-6f80f1a0a8f4" />
 
-## ACTIVITY DIAGRAM:
+ACTIVITY DIAGRAM:
 
-<img width="606" height="892" alt="image" src="https://github.com/user-attachments/assets/31283660-f41b-43ca-a913-d05073741904" />
+![(library)ActivityDiagram](https://github.com/user-attachments/assets/0902a6c7-5bef-416c-a30b-2bb43bc058be)
 
-## PACKAGE DIAGRAM:
 
-<img width="536" height="197" alt="image" src="https://github.com/user-attachments/assets/20c76cc1-40a9-4fe7-93d7-1f58bb121925" />
+PACKAGE DIAGRAM:
 
-## STATECHART DIAGRAM:
+![(library)PackageDiagram](https://github.com/user-attachments/assets/94e632b3-df33-4a6c-8800-9855f959827c)
 
-<img width="1007" height="694" alt="image" src="https://github.com/user-attachments/assets/833f774c-68b5-4f29-86ff-29a5ff95d472" />
 
-## COMMUNICATION DIAGRAM:
+SEQUENCE DIAGRAM:
 
-<img width="957" height="832" alt="Screenshot 2025-09-18 155431" src="https://github.com/user-attachments/assets/83d8260a-6e48-41cb-ae2f-cc52f0d4665c" />
+![(library)SequenceDiagram](https://github.com/user-attachments/assets/3c1fb116-18c2-4d79-a7b0-f38f3f52c6d4)
 
-### RESULT:
+
+COMMUNICATION DIAGRAM:
+
+![(library)CommunicationDia](https://github.com/user-attachments/assets/c4ceba1e-9251-4a53-a1c2-7dff12378042)
+
+
+## RESULT:
 Thus the Library management system project was executed and the output was verified.
+
+
+
+
+
+
+
